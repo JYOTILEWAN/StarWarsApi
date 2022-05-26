@@ -1,0 +1,17 @@
+.homepage__wrapper {
+    height: 100vh;
+    background-image: url('../../assets/homepage-one.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+  
+  .homepage__title {
+      text-align: center;
+      margin: 0;
+  }
+  .homepage__subtitle {
+      margin: 0;
+      text-align: center;
+  }
